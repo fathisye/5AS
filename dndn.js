@@ -53,4 +53,4 @@ joined info-selfie
 **`) 
 }).catch(console.error)
 })
-client.login('NTQzNzE4NDUwNjg2NzIyMDQ4.D0Ao-g.9MndaMwLqjDpHW_t0pcMGKK8Au0');
+client.login(process.env.BOT_TOKEN);
